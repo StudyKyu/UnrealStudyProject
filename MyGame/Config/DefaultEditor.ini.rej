@@ -1,0 +1,4 @@
+diff a/MyGame/Config/DefaultEditor.ini b/MyGame/Config/DefaultEditor.ini	(rejected hunks)
+@@ -0,0 +1,2 @@
++[/Script/AdvancedPreviewScene.SharedProfiles]
++
